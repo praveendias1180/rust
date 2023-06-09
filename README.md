@@ -13,3 +13,11 @@ A language empowering everyone to build reliable and efficient software.
 # Cargo Run
 
 ![](cargo-run.png)
+
+# Crates.io
+
+## The Rust community’s crate registry
+
+https://crates.io/
+
+![](crates.png)
